@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.0_67a6597a2e46c7648788ec056fc6ed1bec5a4477.jar" />
+    </item>
+    <item
+        jar="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.0_9b6c83be93292a60c5be9aa8b2022d3bac5841a2.jar" />
+    </item>
+    <item
+        jar="/home/deolino/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_7c2e51417091f053637fb6c0a5ca9f79f6ef4723.jar" />
+    </item>
+    <item
+        jar="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.0_2079a808f7d62cb2e840e455715185018818af38.jar" />
+    </item>
+    <item
+        jar="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.0_d3221c21d205fcb439bd5d4d81b80b2dc9a9a521.jar" />
+    </item>
+    <item
+        jar="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.0_addbf5d66dac06a45e9091596719387507fe0be2.jar" />
+    </item>
+    <item
+        jar="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a706d168e5a381c5fb2b578114b1971d6ec0e55e">
+        <dex dex="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0348e2accdc025d1f1d02f8c5716959344fb815f.jar" />
+    </item>
+    <item
+        jar="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9b6022936ff845bef66e8cc97ed6bf4754c955b5">
+        <dex dex="/home/deolino/Dropbox/AndroidStudioProjects/SistemaDeCadastro/app/build/intermediates/pre-dexed/debug/instant-run_1729a3f28bdc8ccd3e93312ca73e1c960a0ae494.jar" />
+    </item>
+
+</items>
