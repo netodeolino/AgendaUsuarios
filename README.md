@@ -1,7 +1,7 @@
 # AgendaUsuarios
 Simples aplicação Android de uma agenda de usuários
 
-## Tecnologias
+## Tecnologias e Ferramentas
 <ul>
 <li>Android Studio</li>
 <li>Java 8</li>
